@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Connexion from '@/components/Connexion'
 
 Vue.config.productionTip = false
 
